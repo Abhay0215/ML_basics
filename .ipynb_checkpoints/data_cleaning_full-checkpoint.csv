@@ -1,0 +1,16 @@
+ID,Gender,Age,City,Education,Experience_Years,Salary
+1,Male,35,Berlin,Bachelors,2,70000
+2,Female,,New York,Masters,4,50000
+3,Male,28,,Bachelors,1,30000
+4,Male,40,New York,Masters,4,
+5,Male,35,New York,,7,40000
+6,Female,25,Delhi,Masters,2,
+7,Male,,Delhi,,2,40000
+8,Male,40,Delhi,,1,40000
+9,Male,40,Berlin,High School,2,
+10,Female,25,,Masters,,70000
+11,Male,,,High School,2,40000
+12,Male,35,,Masters,4,40000
+13,Male,22,,Masters,4,
+14,Male,,Delhi,High School,4,40000
+15,Female,25,Berlin,High School,4,40000
